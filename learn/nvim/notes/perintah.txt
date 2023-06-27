@@ -1,0 +1,3 @@
+--
+n tab = pindah window berikutnya
+n Stab = pindah window sebelumnya

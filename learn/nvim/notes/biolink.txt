@@ -1,0 +1,13 @@
+-- keterangan
+n = normal mode
+
+-- perintah
+*|*|*|
+n V   : select satu baris
+n o   : buat baris di bawah + insert mode
+n O   :  buat baris di atas + insert mode
+n ^ . : perintah hasil rekaman
+        cara merekam : tekan "qq" di mode normal, lakuakan perintah, kembali ke mode normal, tekan "q"
+v >   : tab ke dalam
+v <   : tab ke luar
+

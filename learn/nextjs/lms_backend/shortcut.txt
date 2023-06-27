@@ -1,0 +1,18 @@
+
+const asyncHandler = require("express-async-handler");
+
+const variable = asyncHandler(async (req, res) => {
+  try {
+
+  }
+  catch (error) {
+    throw new Error(error);
+  }
+});
+
+
+
+res.status(200).json({
+  status: true,
+  message: "",
+})

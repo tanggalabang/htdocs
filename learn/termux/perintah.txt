@@ -1,0 +1,2 @@
+mv : pindah file || folder
+     mv directori_asal directoy_tujuan
